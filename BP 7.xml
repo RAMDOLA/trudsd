@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OfxPreset plugin="com.genarts.sapphire.Distort.S_Shake" context="Filter" name="BP 7">
+<OfxPlugin>com.genarts.sapphire.Distort.S_Shake</OfxPlugin>
+<OfxPluginVersion>1 11020</OfxPluginVersion>
+<OfxParamTypeChoice name="Style"><OfxParamValue>0</OfxParamValue></OfxParamTypeChoice>
+<OfxParamTypeCustom name="Mocha Project">        <OfxParamValue></OfxParamValue>
+</OfxParamTypeCustom>
+<OfxParamTypeDouble name="Blur Mocha"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Mocha Opacity"><OfxParamValue>1.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeBoolean name="Invert Mocha"><OfxParamValue>false</OfxParamValue></OfxParamTypeBoolean>
+<OfxParamTypeDouble name="Resize Mocha"><OfxParamValue>1.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Resize Rel X"><OfxParamValue>1.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Resize Rel Y"><OfxParamValue>1.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Shift Mocha X"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Shift Mocha Y"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeBoolean name="Bypass Mocha"><OfxParamValue>false</OfxParamValue></OfxParamTypeBoolean>
+<OfxParamTypeBoolean name="Show Mocha Only"><OfxParamValue>false</OfxParamValue></OfxParamTypeBoolean>
+<OfxParamTypeChoice name="Combine Masks"><OfxParamValue>0</OfxParamValue></OfxParamTypeChoice>
+<OfxParamTypeDouble name="Amplitude"><OfxParamValue>1.105000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Frequency"><OfxParamValue>8.910000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Phase"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Stillness"><OfxParamValue>0.700000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Twitch Frequency"><OfxParamValue>2.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Drift"><OfxParamValue>0.300000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Center Bias"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Z Dist"><OfxParamValue>0.860000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeBoolean name="Motion Blur"><OfxParamValue>true</OfxParamValue></OfxParamTypeBoolean>
+<OfxParamTypeDouble name="Mo Blur Length"><OfxParamValue>1.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Seed"><OfxParamValue>0.895000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeChoice name="Wrap X"><OfxParamValue>2</OfxParamValue></OfxParamTypeChoice>
+<OfxParamTypeChoice name="Wrap Y"><OfxParamValue>2</OfxParamValue></OfxParamTypeChoice>
+<OfxParamTypeDouble name="X Rand Amp"><OfxParamValue>0.108000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="X Rand Freq"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="X Wave Amp"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="X Wave Freq"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="X Phase"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Y Rand Amp"><OfxParamValue>0.089000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Y Rand Freq"><OfxParamValue>1.053000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Y Wave Amp"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Y Wave Freq"><OfxParamValue>0.500000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Y Phase"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Z Rand Amp"><OfxParamValue>0.155000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Z Rand Freq"><OfxParamValue>1.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Z Wave Amp"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Z Wave Freq"><OfxParamValue>0.500000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Z Phase"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Tilt Rand Amp"><OfxParamValue>5.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Tilt Rand Freq"><OfxParamValue>1.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Tilt Wave Amp"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Tilt Wave Freq"><OfxParamValue>0.500000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Tilt Phase"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Red Amplitude"><OfxParamValue>1.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Green Amplitude"><OfxParamValue>1.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Blue Amplitude"><OfxParamValue>1.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Red Phase"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Green Phase"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Blue Phase"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="RGB Randomness"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="RGB Frequency"><OfxParamValue>2.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeChoice name="Mask Use"><OfxParamValue>0</OfxParamValue></OfxParamTypeChoice>
+<OfxParamTypeDouble name="Blur Mask"><OfxParamValue>0.006250</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeBoolean name="Invert Mask"><OfxParamValue>false</OfxParamValue></OfxParamTypeBoolean>
+<OfxParamTypeDouble name="Crop Left"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Crop Right"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Crop Top"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="Crop Bottom"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeBoolean name="Enable GPU"><OfxParamValue>true</OfxParamValue></OfxParamTypeBoolean>
+<OfxParamTypeDouble name="version"><OfxParamValue>6.100000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeInteger name="version2"><OfxParamValue>13302293</OfxParamValue></OfxParamTypeInteger>
+</OfxPreset>
